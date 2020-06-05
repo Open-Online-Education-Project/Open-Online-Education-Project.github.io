@@ -1,19 +1,67 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap" rel="stylesheet"> 
+		<style type="text/css">
+			div.container {
+				width: 100%;
+				max-width: 720px;
+				margin: auto;
+				text-align: justify;
+				padding: 10px;
+				box-sizing: border-box;
+			}
+
+			div.header {
+				padding: 10px;
+				display: flex;
+				align-items: center;
+			}
+
+			div.header img {
+				height: 150px;
+				vertical-align: middle;
+			}
+
+			div.header span {
+				flex-grow: 1;
+				text-align: center;
+				font-weight: 900;
+				font-size: 72pt;
+			}
+
+			body, html {
+				width: 100%;
+				font-family: 'Roboto', sans-serif;
+				padding: 0;
+				margin: 0;
+			}
+
+			ol {
+				white-space: pre-line;
+			}
+
+			a {
+				text-decoration: none;
+				color: #053484;
+			}
+		</style>
 		<title>The Open Online Education Project</title>
 	</head>
 	<body>
-		<p>The Open Online Education Project (OOEP) is a group of students, faculty, and technologists, growing out of Harvard and MIT, which aims to:
-			<ol>
-				<li>Improve the infrastructure of online platforms and online supplementary teaching materials so that learning is accessible and effective for everyone. This may include curating and collecting open resources in repositories and that universities may use in making more effective curricula that utilize the key features of online materials.</li>
-				<li>Increase collaboration between universities and expand the use of technology to broader horizons, finding ways to promote socialization through isolation and increase inter-university scholarly discussion that may lead to innovation and discovery.</li>
-				<li>Similarly, facilitate collaboration between universities and other organizations, such that universities may best communicate what they want in their curricula to organizations that could help them curate these more effective online materials and ideas.</li>
-				<li>Advocate for the open release of as much educational material, from software to lectures, as possible.</li>
-			</ol>
-		</p>
-		<p>We currently act as an umbrella group for a number of software projects, including Erik Demaine's Coauthor message-board system. We are also involved in the development of <a href="https://math216.wordpress.com/agittoc-2020/">Algebraic Geometry in the Time of COVID</a>, a MOOC with over 1600 participants.</p>
-		<p>If you're interested in what we do, get in touch with us at openonlineeducationproject [at] gmail [dot] com.</p>
-		<p>For support, email support [at] ooep [dot] freshdesk [dot] com.</p>
+		<div class="container">
+			<div class="header"><img src="Logo.png"><span>OOEP</span></div>
+			<p>The Open Online Education Project (OOEP) is a group of students, faculty, and technologists, growing out of Harvard and MIT, which aims to:
+				<ol>
+					<li>Improve the infrastructure of online platforms and online supplementary teaching materials so that learning is accessible and effective for everyone. This may include curating and collecting open resources in repositories and that universities may use in making more effective curricula that utilize the key features of online materials.</li>
+					<li>Increase collaboration between universities and expand the use of technology to broader horizons, finding ways to promote socialization through isolation and increase inter-university scholarly discussion that may lead to innovation and discovery.</li>
+					<li>Similarly, facilitate collaboration between universities and other organizations, such that universities may best communicate what they want in their curricula to organizations that could help them curate these more effective online materials and ideas.</li>
+					<li>Advocate for the open release of as much educational material, from software to lectures, as possible.</li>
+				</ol>
+			</p>
+			<p>We currently act as an umbrella group for a number of software projects, including Erik Demaine's Coauthor message-board system. We are also involved in the development of <a href="https://math216.wordpress.com/agittoc-2020/">Algebraic Geometry in the Time of COVID</a>, a MOOC with over 1600 participants.</p>
+			<p>If you're interested in what we do, get in touch with us at openonlineeducationproject [at] gmail [dot] com.</p>
+			<p>For support, email support [at] ooep [dot] freshdesk [dot] com.</p>
+		</div>
 	</body>
 </html>
