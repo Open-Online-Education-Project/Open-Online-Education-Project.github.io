@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Home
 nav_title: Home
+nav_order: 1
 ---
 The Open Online Education Project (OOEP) is a group of students, faculty, and technologists, growing out of Harvard and MIT, which aims to:
 
