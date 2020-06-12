@@ -1,0 +1,24 @@
+title: OOEP
+description: The Open Online Education Project website.
+baseurl: ""
+url: "https://ooep.org"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+repository: Open-Online-Education-Project/OOEP-Jekyll-Theme
+remote_theme: Open-Online-Education-Project/OOEP-Jekyll-Theme
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
