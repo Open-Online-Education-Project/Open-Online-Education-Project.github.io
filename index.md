@@ -11,7 +11,7 @@ The Open Online Education Project (OOEP) aims to expand and improve online educa
 * Creating collaborations between institutions to address problems in online education.
 * Collecting and distributing resources for online education
 
-We are a group of students, faculty, and technologists, growing out of Harvard and MIT, working on online education at the university level. We believe online education naturally lends itself to collaboration and needs further development. OOEP consists of a coalition of projects (link board) and partners (link partner list).
+We are a group of students, faculty, and technologists, growing out of Harvard and MIT, working on online education at the university level. We believe online education naturally lends itself to collaboration and needs further development. OOEP consists of a coalition of [projects](https://ooep.org/projects) and partners.
 
 OOEP abides by the following principles:
 
