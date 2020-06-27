@@ -17,7 +17,7 @@ OOEP abides by the following principles:
 
 * We are not for profit
 * We are inter-university
-* Our projects are open and freely available: Development is open-source, findings in our research and collaborations will be published for free
+* Our projects are open and freely available: Technical development is open-source, findings in our research and collaborations will be published for free
 
 We believe in supporting everyone in online education regardless of whether they abide by these principles. For example,  even if you do not publish your course materials, we still want to work with you.
 
