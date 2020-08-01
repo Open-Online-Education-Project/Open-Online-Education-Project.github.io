@@ -4,7 +4,7 @@ title: Home
 nav_title: Home
 nav_order: 1
 ---
-The Open Online Education Project (OOEP) aims to expand and improve online education by:
+The Open Online Education Project (OOEP) aims to improve online education by:
 
 * Developing open-source online educational tools.
 * Advocating for the publishing of free online education materials
