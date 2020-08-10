@@ -4,6 +4,9 @@ title: Projects
 nav_title: Projects
 nav_order: 2
 ---
+
+* ToC
+{:toc}
 # Advocacy Projects
 ## Open Course Materials Initiative (OCMI)
 **Project managers:** Leo Alcock/ Professor Erik Demaine
@@ -31,12 +34,26 @@ For organizers [6+ hr/wk]:
 * Experience with advocacy efforts
 
 For developers [5+ hr/wk]: 
-* Graphic and UI/UX design.  
+* Graphic and UI/UX design.
 * Python and JavaScript/CoffeeScript coding. 
 * Scaling large web apps.
 
 For canvassers [2+ hr/wk]:
-* Be a Harvard Student 
+* Be a Harvard Student
+
+## Affordable Internet Initiative
+**Project manager:** David Andrade
+
+**Current members:** David Andrade, Mathew Kuruvilla
+
+**Motivation/Background:** One of the barriers to an effective online education is access to reliable Internet. According to the FCC, more than 19 million people still do not have access to reliable high-speed Internet across the US. This is especially true in densely populated poor communities and rural areas. Even the FCC concluded broadband is not yet being deployed in a reasonable and timely fashion, and that they want to  “further examine the role of mobile services and next-generation, high-speed services” in increasing Internet accessibility. 
+There are two problems at play here. Rural areas lack access because Internet companies don’t find it economically beneficial to extend Internet access to such areas - therefore, good Internet is just not accessible. Dense urban centers lack access because poorer communities cannot overcome the high prices of the Internet. Though we are exploring different options to increase internet accessibility in both cases, our initial focus is on solving the financial barrier problem for dense urban areas.
+
+**Deliverables:**
+* Connect with community leaders and building managers in dense urban areas to provide cheap Internet access to tenants
+* Find grants/funding that would help cover the costs of implementing a solution
+* Evaluate costs, and if possible, apply this approach as a way to implement municipal broadband.
+* Determine and research current plans on how to deliver Internet to underprivileged communities, and develop a specific framework for implementation.
 
 
 # Development Projects
@@ -53,7 +70,7 @@ For canvassers [2+ hr/wk]:
 * Provide ongoing support.
 
 **Desired skills:**
-* Graphic and UI/UX design.  
+* Graphic and UI/UX design.
 * Python and JavaScript/CoffeeScript coding.
 * Scaling large web apps.
 
@@ -72,14 +89,14 @@ For canvassers [2+ hr/wk]:
 * Provide ongoing support.
 
 **Desired skills:**
-* Graphic and UI/UX design.  
+* Graphic and UI/UX design.
 * Python and JavaScript/CoffeeScript coding.
 * Scaling large web apps.
 
 ## Coauthor
 **Project manager:** Professor Erik Demaine
 
-** Current members:** Professor Erik Demaine
+**Current members:** Professor Erik Demaine
 
 **Repository:** [https://github.com/edemaine/coauthor](https://github.com/edemaine/coauthor)
 
@@ -108,7 +125,25 @@ Circle Z helps recreate the collaborative learning environment, especially in ma
 
 **Desired skills:** Web Dev and other experience related to the functionalities of Circle Z. Please get in touch for more details.
 
-# Course Partnership Projects
+# Miscellaneous Projects
+
+## ResearchSeminars.org
+**Project Managers:** Edgar Costa and David Roe
+**Current Members:** Drew Sutherland, Bjorn Poonen, and many others. 
+
+**Motivation/Background:** researchseminars.org is a crowd-sourced platform where researchers can share links to their seminars. The switch towards remote academics has extended the reach of research seminars, which were often only accessible to those who could attend in person. This provides a wealth of opportunities for sharing the latest research to people anywhere. Researchseminars.org provides an ongoing, updated list of virtually accessible research seminars, conferences, as well as allowing for the posting of related material. At the moment, researchseminars.org mostly contains mathematics seminars, however, we aim to cover a wide range of fields and topics.
+
+**Deliverables:**
+* Software Development for the researchseminars.org platform
+* Reaching other research areas/communities for the site to host
+* Adding content to the site.
+
+**Desired Skills:**
+* Software Developers
+* Connection and understanding of research communities in academia
+
+
+## Course Partnerships
 **Project Manager:** Lucy He
 
 **Current Members:** Leo Alcock, Professor Erik Demaine, David Andrade, Lucy He, Michael Kielstra, Angelika Antsmae, Mathew Kuruvilla
@@ -126,21 +161,7 @@ Circle Z helps recreate the collaborative learning environment, especially in ma
 * MIT Summer HSSP
 * Euler Circle
 
-# Affordable Internet Initiative
-**Project manager:** David Andrade
-
-**Current members:** David Andrade, Mathew Kuruvilla
-
-**Motivation/Background:** One of the barriers to an effective online education is access to reliable Internet. According to the FCC, more than 19 million people still do not have access to reliable high-speed Internet across the US. This is especially true in densely populated poor communities and rural areas. Even the FCC concluded broadband is not yet being deployed in a reasonable and timely fashion, and that they want to  “further examine the role of mobile services and next-generation, high-speed services” in increasing Internet accessibility. 
-There are two problems at play here. Rural areas lack access because Internet companies don’t find it economically beneficial to extend Internet access to such areas - therefore, good Internet is just not accessible. Dense urban centers lack access because poorer communities cannot overcome the high prices of the Internet. Though we are exploring different options to increase internet accessibility in both cases, our initial focus is on solving the financial barrier problem for dense urban areas.
-
-**Deliverables:**
-* Connect with community leaders and building managers in dense urban areas to provide cheap Internet access to tenants
-* Find grants/funding that would help cover the costs of implementing a solution
-* Evaluate costs, and if possible, apply this approach as a way to implement municipal broadband.
-* Determine and research current plans on how to deliver Internet to underprivileged communities, and develop a specific framework for implementation.
-
-# The Educational Resource Handbook
+## The Educational Resource Handbook
 **Project Manager:** David Andrade
 **Current members:** David Andrade
 
@@ -155,7 +176,7 @@ Deliverables:
 * Research how different class types (arts, engineering, math) can each improve their classes with educational resources/tools to maximize student success.
 
 
-# Research and Outreach Team
+## Research and Outreach Team
 
 **Project Manager:** David Andrade, Lucy He
 
@@ -171,19 +192,3 @@ The second objective as a member of this team is to establish connections with p
 * Facilitate and maintain relationships between faculty and the resources, including a feedback loop of what can be improved
 * Identify opportunities for tool development that the OOEP Development team can aid in collaborating with
 * Collecting feedback and data on professor and student thoughts on concerns with online education and what ideas exist to improve it
-
-# ResearchSeminars.org
-**Project Managers:** Edgar Costa and David Roe
-**Current Members:** Drew Sutherland, Bjorn Poonen, and many others. 
-
-**Motivation/Background:** researchseminars.org is a crowd-sourced platform where researchers can share links to their seminars. The switch towards remote academics has extended the reach of research seminars, which were often only accessible to those who could attend in person. This provides a wealth of opportunities for sharing the latest research to people anywhere. Researchseminars.org provides an ongoing, updated list of virtually accessible research seminars, conferences, as well as allowing for the posting of related material. At the moment, researchseminars.org mostly contains mathematics seminars, however, we aim to cover a wide range of fields and topics.
-
-**Deliverables:**
-* Software Development for the researchseminars.org platform
-* Reaching other research areas/communities for the site to host
-* Adding content to the site.
-
-**Desired Skills:**
-* Software Developers
-* Connection and understanding of research communities in academia
-
