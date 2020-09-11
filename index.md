@@ -7,7 +7,7 @@ nav_order: 1
 
 The Open Online Education Platform (OOEP) aims to redefine higher education's approach to online education by 
 
-* Advocating for the sharing of course materials online
+* Advocating for open sharing of course materials online
 * Building open-source edTech 
 * Creating collaborations between institutions to address problems in online education
 
