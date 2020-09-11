@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Open Course Materials Initiative (OCMI)
+published: false 
 nav_title: OCMI
 nav_order: 2
 ---
