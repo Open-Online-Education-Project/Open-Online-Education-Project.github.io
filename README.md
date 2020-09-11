@@ -46,6 +46,15 @@ layout: redirect
 
 If we were ever to have a blog, we would have a `post` layout as well.
 
+### Navigation Bar Order:
+| Site Tab | Description|
+|----| -----------|
+| index | front page | 
+| ocmi | Open Course Materials Initiative |
+| opencommunity | Open edTech Community Page |
+| Join OOEP | Description how to join | 
+| contact | contact page - email curently |
+
 ### Redirect Link Scroll: 
 
 The following is a list of the different ooep hotlinks. That is, change one of these hotlinks in the jekyll to have ooep.org/link redirect there. In the future some of these may turn into non-hotlinks and thus linking to ooep.org/link is ideal. 

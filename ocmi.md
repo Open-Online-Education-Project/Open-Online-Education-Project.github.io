@@ -2,6 +2,7 @@
 layout: page
 title: Open Course Materials Initiative (OCMI)
 nav_title: OCMI
+nav_order: 2
 ---
 
 The Open Course Materials Initiative (OCMI) is an advocacy effort led by Harvard students pushing for open course material sharing at universities. The pandemic has had two key effects in higher education:

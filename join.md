@@ -2,11 +2,11 @@
 layout: page
 title: Join OOEP
 nav_title: Join OOEP
-nav_order: 3
+nav_order: 5
 ---
 Join us to explore the potential of online education. Together, we can create a online education culture defined by innovation, collaboration, and resource sharing. 
 
-OOEP's core initiatives are the [Open edTech Community](ooep.org/opencommunity) and the [Open Course Materials Initiative](ooep.org/OCMI)
+OOEP's core initiatives are the [Open Course Materials Initiative](ooep.org/OCMI) and the [Open edTech Community](ooep.org/opencommunity).
 
 [Job Descriptions](ooep.org/jobs)
 [Sign up via this brief Google form.](ooep.org/signup)
