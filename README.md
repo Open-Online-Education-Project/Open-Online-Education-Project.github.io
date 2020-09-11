@@ -45,3 +45,29 @@ layout: redirect
 ```
 
 If we were ever to have a blog, we would have a `post` layout as well.
+
+### Navigation Bar Order:
+| Site Tab | Description|
+|----| -----------|
+| index | front page | 
+| ocmi | Open Course Materials Initiative |
+| opencommunity | Open edTech Community Page |
+| Join OOEP | Description how to join | 
+| contact | contact page - email curently |
+
+### Redirect Link Scroll: 
+
+The following is a list of the different ooep hotlinks. That is, change one of these hotlinks in the jekyll to have ooep.org/link redirect there. In the future some of these may turn into non-hotlinks and thus linking to ooep.org/link is ideal. 
+
+* General OOEP Related
+  * jobs: Google doc for job listing across all OOEP matters. 
+  * signup: Google form for signing up for an OOEP job. 
+
+* OCMI Related
+  * OCMIAtHarvard: OCMI Harvard letter that we collect faculty signatures for. 
+  * OCMIAtHarvardForm: Google form for sign ons from faculty
+  * OCMIFAQ: Frequently asked questions of faculty 
+
+* Open edTech Community Related
+  * projects: list of the open-source development projects under 
+  * projectagreement: Link to a view of the project agreement 
