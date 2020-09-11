@@ -5,7 +5,7 @@ nav_title: Home
 nav_order: 1
 ---
 
-The Open Online Education Project (OOEP) aims to redefine higher education's approach by 
+The Open Online Education Platform (OOEP) aims to redefine higher education's approach by 
 
 * Advocating for the sharing of course materials online
 * Building open-source edTech 
