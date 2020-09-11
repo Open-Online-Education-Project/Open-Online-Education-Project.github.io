@@ -5,7 +5,7 @@ nav_title: Home
 nav_order: 1
 ---
 
-The Open Online Education Platform (OOEP) aims to redefine higher education's approach by 
+The Open Online Education Platform (OOEP) aims to redefine higher education's approach to online education by 
 
 * Advocating for the sharing of course materials online
 * Building open-source edTech 
@@ -17,7 +17,7 @@ OOEP abides by the following principles:
 
 * We are not for profit
 * We are inter-university
-* Our projects are open and freely available: Technical development is open-source, findings in our research and collaborations will be published for free
+* Our projects are open and freely available: Technical development is open-source, findings in our collaborations will be published for free
 
 We believe in supporting everyone in online education regardless of whether they abide by these principles. For example, even if you do not publish your course materials, we still want to work with you.
 
