@@ -22,7 +22,5 @@ We want to launch a collaborative hub of developers working on open-source tech 
 
 ![A graph of the Open edTech Community's organization, showing a hub labeled "Open EdTech" and three spokes labeled "Dev projects/Individual developers", "Ed partners", and "Student organizers" respectively.](/assets/img/oetc-graph.png)
 
-**We look forward to working together with interested students on MIT UA to in organizing the community and building connections. You can decide on how involved you want to be with the project. We’d love to have you as an organizer for the community (be involved in overall planning and team management) if this is something you’re interested in and have the time commitment for. But any help reaching out to MIT resources and building out connections will be greatly appreciated as well. We’re trying to expand both technology and education connections, some elaboration on these partnerships can be found below.**
-
 **This is a new initiative in active development, and your ideas will play an important role in shaping how this project will evolve in the months ahead.**
 
