@@ -6,15 +6,11 @@ nav_order: 5
 ---
 Join us to explore the potential of online education. Together, we can create a online education culture defined by innovation, collaboration, and resource sharing. 
 
-OOEP's core initiatives are
-* [Open Course Materials Initiative](OCMI)
-* [Open edTech Community](opencommunity).
+OOEP's core initiatives are:
+* [Open Course Materials Initiative](ocmi), which has a number of [technical projects](projects).
+* [Open edTech Community](oetc).
 
-Linked here are our [Job Descriptions](jobs) and our [very brief signup form.](signup)
-[Job Descriptions](jobs)
-[Sign up via this brief Google form.](signup)
-
-For descriptions of edTech projects of OOEP, please see [ooep.org/projects](projects)
+Feel free to sign up on our [very brief signup form.](signup)
 
 At OOEP we have four core teams: advocacy team, partnership management team, technology team, and the executive team. All of these roles are crucial to meeting the goals of OOEP. You can work in multiple roles. You do not need to be a student to work with OOEP. 
 
