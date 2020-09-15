@@ -7,8 +7,8 @@ nav_order: 5
 Join us to explore the potential of online education. Together, we can create a online education culture defined by innovation, collaboration, and resource sharing. 
 
 OOEP's core initiatives are:
-* [Open Course Materials Initiative](ocmi), which has a number of [technical projects](projects).
-* [Open edTech Community](oetc).
+* [Open Course Materials Initiative](ocmi)
+* [Open edTech Community](oetc): which has a number of [technical projects](projects).
 
 Feel free to sign up on our [very brief signup form.](signup)
 
