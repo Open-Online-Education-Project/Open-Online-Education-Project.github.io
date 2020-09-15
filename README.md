@@ -53,7 +53,7 @@ If we were ever to have a blog, we would have a `post` layout as well.
 | ocmi | Open Course Materials Initiative |
 | oetc | Open edTech Community Page |
 | projects | Projects |
-| Join OOEP | Description how to join | 
+| join | Description how to join | 
 | contact | contact page - email curently |
 
 ### Redirect Link Scroll: 
