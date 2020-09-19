@@ -71,4 +71,5 @@ The following is a list of the different ooep hotlinks. That is, change one of t
 
 * Open edTech Community Related
   * projects: list of the open-source development projects under 
-  * projectagreement: Link to a view of the project agreement 
+  * projectagreement: Link to a view of the project agreement
+  * devsignup: Sign up form for developers and new Open Source edTech projects. 
