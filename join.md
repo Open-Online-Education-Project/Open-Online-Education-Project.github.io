@@ -10,7 +10,7 @@ OOEP's core initiatives are:
 * [Open Course Materials Initiative](ocmi)
 * [Open edTech Community](oetc): which has a number of [technical projects](projects).
 
-Feel free to sign up on our [very brief signup form.](signup)
+Check out our current job descriptions at [jobs](jobs) and sign up on our [brief signup form](signup).
 
 At OOEP we have four core teams: advocacy team, partnership management team, technology team, and the executive team. All of these roles are crucial to meeting the goals of OOEP. You can work in multiple roles. You do not need to be a student to work with OOEP. 
 
