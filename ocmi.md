@@ -8,7 +8,7 @@ nav_order: 2
 
 ## OCMI is petitioning to be on the next Harvard UC Election Ballot, Harvard Undergraduates [please sign here](UCPetition)
 
-Do **sign [here](UCPetition)** to put us on the ballot for the [harvarduc.org](harvarduc.org) **by October 31st**. The UC election runs from Monday, November 9, 2020, at 12:00 PM through Thursday, November 12, 2020, at 12:00 PM.
+Do **sign [here](UCPetition)** to put us on the ballot for the [harvarduc.org](https://harvarduc.org) **by October 31st**. The UC election runs from Monday, November 9, 2020, at 12:00 PM through Thursday, November 12, 2020, at 12:00 PM.
 
 ### OCMI 
 
