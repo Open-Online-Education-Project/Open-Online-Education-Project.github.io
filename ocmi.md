@@ -6,10 +6,6 @@ nav_title: OCMI
 nav_order: 2
 ---
 
-## OCMI is petitioning to be on the next Harvard UC Election Ballot, Harvard Undergraduates [please sign here](UCPetition)
-
-Do **sign [here](UCPetition)** to put us on the ballot for the [harvarduc.org](https://harvarduc.org) **by October 31st**. The UC election runs from Monday, November 9, 2020, at 12:00 PM through Thursday, November 12, 2020, at 12:00 PM.
-
 ### OCMI 
 
 The Open Course Materials Initiative (OCMI) is an advocacy effort led by Harvard students pushing for open course material sharing at universities. The pandemic has had two key effects in higher education:
