@@ -6,7 +6,7 @@ nav_title: OCMI
 nav_order: 2
 ---
 
-## **[3/14/2020 Update]**
+## **[3/14/2020 Update]: Collecting Mathematics Materials**
 
 We are now collecting materials to set up a **sample page for the Harvard math department**. If you are a member of the Harvard math community (students and former affiliates included) and would like to share course materials please contact Lucy He (*luxihe [at] college [dot] harvard [dot] edu*). Course materials include any subset of the following:
 * Syllabi
@@ -15,7 +15,7 @@ We are now collecting materials to set up a **sample page for the Harvard math d
 * Lecture Videos
 * Any other educational materials
 
-See our [draft proposal](mathproposal) for more information. 
+See our [draft proposal](mathproposal) for more information. Contact again: Lucy He; luxihe [at] college [dot] harvard [dot] edu. 
 
 ### OCMI
 
