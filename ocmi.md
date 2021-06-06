@@ -17,7 +17,7 @@ We are now collecting materials to set up a **sample page for the Harvard math d
 
 See our [draft proposal](mathproposal) for more information. Contact again: Lucy He; luxihe [at] college [dot] harvard [dot] edu. 
 
-### OCMI
+### About OCMI
 
 The Open Course Materials Initiative (OCMI) is an advocacy effort led by Harvard students pushing for open course material sharing at universities. The pandemic has had two key effects in higher education:
 * A severe crippling of higher education - hitting underresourced communities the hardest 
